@@ -1,0 +1,4 @@
+Disease		Symptoms	Advice
+Insomnea	Sleepless	Avoid Tension
+Fever		Body Temp	Paracetamol
+Cold		Sleepless	Citrizine

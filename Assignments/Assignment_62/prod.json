@@ -1,0 +1,31 @@
+[
+	{
+		"name": "SAMSUNG",
+		"empid": "01",
+		"department": "5000"
+	},
+
+	{
+		"name": "SONY",
+		"empid": "02",
+		"department": "6000"
+	},
+
+	{
+		"name": "MI",
+		"empid": "03",
+		"department": "4000"
+	},
+
+	{
+		"name": "APPLE",
+		"empid": "04",
+		"department": "9000"
+	},
+
+	{
+		"name": "GIONEE",
+		"empid": "05",
+		"department": "4000"
+	}
+]
